@@ -1,0 +1,10 @@
+This program is a console-based Student Record Management System written in Python.
+It allows the user to add students, view all students, search by roll number, and display class statistics.
+Student data is stored using a list of dictionaries.
+Each student record includes name, roll number, marks, total, average, and grade.
+The program uses functions to organize different tasks.
+A while loop is used to display the menu continuously until exit is selected.
+For loops are used to search and display student records.
+Conditional statements are used to calculate grades.
+Basic error handling is implemented for duplicate roll numbers.
+AI assistance was used for guidance, but the logic is fully understood.
